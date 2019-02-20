@@ -1,13 +1,11 @@
 ```markdown
-*Head Researcher
-
+*Head Researcher*
 Dr. Daniel Pinto
 
-*Research Coordinator
-
+*Research Coordinator*
 Ms. Marissa Lovell
 
-*Student Researchers
+*Student Researchers*
 
 Megan Dorsey
 
