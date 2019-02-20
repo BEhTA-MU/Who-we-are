@@ -3,7 +3,7 @@
 
 Dr. Daniel Pinto
 
-* Research Coordinator
+*Research Coordinator
 
 Ms. Marissa Lovell
 
